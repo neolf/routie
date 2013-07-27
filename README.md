@@ -10,6 +10,8 @@ Routie is a javascript hash routing library.  It is designed for scenarios when 
 
 ##Basic Usage
 
+如果采用第一种方式多次构建会导致事件被注册多次
+
 There are three ways to call routie:
 
 Here is the most basic way:
